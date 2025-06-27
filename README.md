@@ -1,1 +1,0 @@
-# aswanth-005--Sustainable-Smart-City-Assistant-Using-IBM-Granite-LLM-in-the-box-below
